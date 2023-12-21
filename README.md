@@ -6,7 +6,7 @@ Feel free to submit any new LLM Applications that you find interesting. 欢迎�
 
 | Name | Update | Category | Introduction | Demo |
 | :----| :------| :--------| :------ | :----------- |
-| [Booru](https://booru.plus/+pygmalion) | 2023.12.21 | Character | ![](./assets/booru.png)| None |
+| [Booru](https://booru.plus/+pygmalion) | 2023.12.21 | Character Creation | ![](./assets/booru.png)| None |
 | [Chub](https://www.chub.ai/) | 2023.12.21 | Character Creation | ![](./assets/chub.png)| None|
 | RisuAI [![](https://img.shields.io/github/stars/kwaroran/risuAI)](https://github.com/kwaroran/risuAI) | 2023.12.21 | Role-Playing, Character Creation| ![](./assets/risuAI.png) | None |
 |text-generation-webui[![](https://img.shields.io/github/stars/oobabooga/text-generation-webui)](https://github.com/oobabooga/text-generation-webui) | 2023.12.21 | Inferace UI | A Gradio web UI for Large Language Models. | None |
